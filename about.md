@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Cogito Ergo Sum
+Cogito ergo sum
 
 ### More Information
 
-Saya berpikir maka saya tertawa. 
+Just ordinary person to love her family
 
 ### Contact me
 
